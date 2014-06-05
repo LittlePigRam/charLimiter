@@ -1,4 +1,4 @@
-/*
+﻿/*
     Project: charLimiter
     Version: 1.1
     Date: 10/01/2013
@@ -6,6 +6,7 @@
     Author: Abner Soares Alves Júnior
     GitHub: https://github.com/abnersajr
     Licensed under the MIT license
+	
  */
 ;
 (function($, window, undefined) {
